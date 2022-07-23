@@ -1,6 +1,6 @@
 # staticweb3940677
 
-Links to web site :
+Links to web site : https://s3940677.github.io/staticweb3940677/index.html
 
 References : - Google fonts
     - Google images
